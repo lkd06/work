@@ -27,6 +27,10 @@ public class Num {
 	
 	public long solution(int a, int b) {
 	      long answer = 0;
+	      String str="가나다";
 	      return answer;
 	}
 }
+//주석처리해도 한글 인식 안 되나
+//주석처리하면 한글 인식 가능
+//그냥 ~.java는 한글 인식 되는 듯
