@@ -4,3 +4,7 @@ https://gbsb.tistory.com/10
 
 저장소 위치 문제일 때 설정된  지우는 방법
 git remote rm origin
+
+
+git push가 안 되는 경우
+https://gdtbgl93.tistory.com/63
